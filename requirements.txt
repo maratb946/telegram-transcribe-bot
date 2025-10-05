@@ -1,0 +1,7 @@
+# requirements.txt
+aiogram==3.10.0
+faster-whisper==1.0.3
+language-tool-python==2.7.1
+python-docx==1.1.2
+pdfkit==1.0.0
+torch==2.3.0
